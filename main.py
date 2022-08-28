@@ -1,5 +1,4 @@
-import random
-
+# This is the code where the game is run
 from card import Card
 from deck import Deck
 from hand import Hand        
