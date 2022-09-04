@@ -1,4 +1,5 @@
 import random
+from card import Card
 class Deck:
     """Creating the deck."""
     def __init__(self):

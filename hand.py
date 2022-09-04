@@ -1,4 +1,5 @@
 class Hand:
+    
     """A hand to keep track of the cards"""
     def __init__(self, dealer=False):
         """"Initializing hand attributes"""

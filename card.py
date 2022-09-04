@@ -1,5 +1,5 @@
 class Card:
-    """Creating my cards"""
+    """Creating my cards class"""
     def __init__(self, suit, rank):
         """Initializing card attributes"""
         self.suit = suit
